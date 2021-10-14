@@ -1,0 +1,93 @@
+0 however
+1 and
+2 for example
+3 although
+4 in short
+5 rather
+6 specifically
+7 then
+8 also
+9 next
+10 in particular
+11 in sum
+12 because
+13 nevertheless
+14 for instance
+15 as a result
+16 while
+17 consequently
+18 inasmuch as
+19 in other words
+20 thus
+21 furthermore
+22 yet
+23 but
+24 therefore
+25 so
+26 on the other hand
+27 in addition
+28 indeed
+29 since
+30 in fact
+31 previously
+32 subsequently
+33 in the end
+34 instead
+35 by comparison
+36 whereas
+37 as
+38 that is
+39 moreover
+40 by contrast
+41 meanwhile
+42 similarly
+43 additionally
+44 accordingly
+45 at the time
+46 even though
+47 ultimately
+48 still
+49 likewise
+50 for one thing
+51 though
+52 overall
+53 or
+54 on the one hand
+55 later
+56 on the contrary
+57 in turn
+58 in contrast
+59 earlier
+60 further
+61 besides
+62 on the whole
+63 first
+64 since then
+65 simultaneously
+66 when
+67 soon
+68 as it turns out
+69 insofar as
+70 hence
+71 so that
+72 ever since
+73 finally
+74 to this end
+75 afterwards
+76 in comparison
+77 in summary
+78 as a consequence
+79 particularly
+80 at the same time
+81 what's more
+82 after
+83 thereafter
+84 eventually
+85 incidentally
+86 before
+87 for
+88 plus
+89 so far
+90 separately
+91 in the meantime
+92 nonetheless
